@@ -1,0 +1,7 @@
+com\algaworks\thymeleaf\config\I18nConfig.class
+com\algaworks\thymeleaf\controller\ProdutosController.class
+com\algaworks\thymeleaf\config\WebConfig.class
+com\algaworks\thymeleaf\SpringWebInitializer.class
+com\algaworks\thymeleaf\config\ThymeleafConfig.class
+com\algaworks\thymeleaf\config\JspConfig.class
+com\algaworks\thymeleaf\model\Produto.class
